@@ -1,0 +1,35 @@
+.contact-content {
+  font-family: Arial, sans-serif;
+    background-color: rgb(255, 255, 255);
+    padding: 2rem;
+    min-height: 90vh;
+    text-align: center;
+  }
+  
+.title {
+    font-size: 3rem;
+    color: #333;
+}
+  
+
+.contact-content h1 {
+    margin-bottom: 1rem;
+    font-weight: 700;
+    font-size: 2rem;
+    color: black;
+  }
+  
+
+
+  #contact {
+    margin-top: 1.5rem;
+  }
+  
+  #contact a {
+    color: #3498db;
+    text-decoration: none;
+  }
+  
+  #contact a:hover {
+    color: #2980b9;
+  }
